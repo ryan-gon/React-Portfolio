@@ -1,0 +1,10 @@
+.footer {
+    margin-top: auto;
+    padding: 13rem;
+    background-color: rgb(235, 195, 64);
+    position: fixed;
+    bottom: 40;
+    background-image: "../images/icons.jpg";
+    left: 0;
+    width: 100%;
+}
