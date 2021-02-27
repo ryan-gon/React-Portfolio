@@ -1,0 +1,17 @@
+.header {
+  height: 150px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.hi {
+  color: white;
+  font-size: 70px;
+  margin-top: 0;
+}
+
+.welcome {
+  color: rgb(124, 92, 31);
+  font-size: 20px;
+}
